@@ -1,46 +1,74 @@
-👋 Hey, I'm Ayse
-🌌 About Me
+<div align="center">
 
-Just a curious star floating across space.
+# 👋 Hey, I'm Ayse
 
-I enjoy learning how systems work, building projects, and exploring cybersecurity through ethical research and authorized testing.
+```text
+root@ayse:~$ whoami
+> Curious.
+> Builder.
+> Security Researcher.
+```
 
-🔐 Penetration Tester
-🐧 Linux Enthusiast
-💻 Full Stack Developer
-⚙️ Automation & Scripting
-🛰️ Raspberry Pi Projects
-🌐 Open Source
-🚀 Currently Exploring
-Web Security
-Network Security
-Reverse Engineering
-Malware Analysis
-Digital Forensics
-Cloud Infrastructure
-🛠️ Tech Stack
-Languages
-├── Python
-├── JavaScript
-├── HTML
-├── CSS
-└── Bash
+*"Just a curious star floating across space."* 🌌
 
-Tools
-├── Kali Linux
-├── Burp Suite
-├── Wireshark
-├── Nmap
-├── Metasploit
-├── Docker
-├── Git
-└── VS Code
-📌 Featured Project
+</div>
 
-https://github.com/itsayse/Pwnagotchi
+---
 
+## 🛰️ About
 
-⚠️ All testing and demonstrations are performed only in controlled environments or with explicit authorization.
+```yaml
+Name: Ayse
+Focus:
+  - Penetration Testing
+  - Web Security
+  - Linux
+  - Raspberry Pi
+  - Full Stack Development
 
-📫 Connect
-Email: tomtv9889@gmail.com
+Status: Always learning something new.
+```
+
+---
+
+## ⚡ Tech
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,bash,linux,git,docker,vscode"/>
+
+</p>
+
+---
+
+## 🔐 Currently Learning
+
+```text
+▣ Web Security
+▣ Reverse Engineering
+▣ Malware Analysis
+▣ Digital Forensics
+▣ Cloud Security
+```
+
+---
+
+## 🚀 Featured Project
+
+### 🤖 Pwnagotchi
+
+> Raspberry Pi powered Wi-Fi learning companion.
+
+🔗 https://github.com/itsayse/Pwnagotchi
+
+> ⚠️ Built and used only for educational purposes and authorized security assessments.
+
+---
+
+<div align="center">
+
+### 📫 Contact
+
+**[tomtv9889@gmail.com](mailto:tomtv9889@gmail.com)**
+
+</div>
