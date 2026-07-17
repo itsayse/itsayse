@@ -112,10 +112,3 @@ https://github.com/itsayse/Pwnagotchi
 
 ---
 
-<div align="center">
-
-### 💭 Philosophy
-
-> **Learn • Build • Repeat**
-
-</div>
