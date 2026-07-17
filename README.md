@@ -2,13 +2,15 @@
 
 # 👋 Hey, I'm Ayse
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=650&lines=Security+Researcher;Full+Stack+Developer;Linux+Enthusiast;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=00FF99&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Aspiring+Penetration+Tester;Linux+Enthusiast;Full+Stack+Developer;Always+Learning+Something+New"/>
 
 *"Just a curious star floating across space."* 🌌
 
-<a href="https://tryhackme.com/p/AYSE">
-  <img src="https://img.shields.io/badge/TryHackMe-AYSE-red?style=for-the-badge&logo=tryhackme&logoColor=white">
-</a>
+<p>
+  <a href="https://tryhackme.com/p/AYSE">
+    <img src="https://img.shields.io/badge/TryHackMe-Visit%20Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
@@ -19,22 +21,22 @@
 ```console
 root@ayse:~$ whoami
 
-Ayse
+Name        : Ayse
+Role        : Cybersecurity Student
 
-Security Researcher
-Linux Enthusiast
-Full Stack Developer
-
-root@ayse:~$ interests
-
+Focus:
+• Penetration Testing
 • Web Security
-• Network Security
+• Linux
+• Full Stack Development
+
+Currently Learning:
+• Active Directory
 • Reverse Engineering
 • Malware Analysis
 • Digital Forensics
 
-root@ayse:~$ status
-
+Status:
 Always building.
 Always learning.
 ```
@@ -44,10 +46,21 @@ Always learning.
 ## ⚡ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,react,html,css,bash,linux,docker,git,github,vscode,raspberrypi"/>
-
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,react,html,css,bash,linux,docker,git,github,vscode,raspberrypi,mysql"/>
 </p>
+
+---
+
+## 🔐 Interests
+
+```text
+▣ Ethical Hacking
+▣ Web Application Security
+▣ Network Security
+▣ Linux Administration
+▣ Raspberry Pi Projects
+▣ Automation & Scripting
+```
 
 ---
 
@@ -55,23 +68,17 @@ Always learning.
 
 ### 🤖 Pwnagotchi
 
-> Raspberry Pi powered Wi-Fi learning companion.
+A Raspberry Pi powered Wi-Fi learning companion built for educational purposes and authorized security assessments.
 
-🔗 https://github.com/itsayse/Pwnagotchi
+**Hardware**
 
-> Built and used only in controlled environments for educational purposes and authorized security assessments.
+- Raspberry Pi Zero WH
+- 2.13" E-Ink Display
+- SanDisk 32GB MicroSD
+- Custom 3D Printed Case
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=itsayse&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsayse&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+🔗 Repository:
+https://github.com/itsayse/Pwnagotchi
 
 ---
 
@@ -84,7 +91,7 @@ Always learning.
 </a>
 
 <a href="https://tryhackme.com/p/AYSE">
-<img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
 </a>
 
 <a href="mailto:tomtv9889@gmail.com">
@@ -95,10 +102,22 @@ Always learning.
 
 ---
 
+## 📂 Current Goals
+
+- Build practical cybersecurity tools
+- Improve penetration testing skills
+- Learn reverse engineering and malware analysis
+- Contribute to open source
+- Create high-quality technical projects
+
+---
+
 <div align="center">
 
-### 💭
+### 💭 Philosophy
 
-> **Hack • Learn • Build • Repeat**
+> **Learn • Build • Repeat**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00ff99&height=120&section=footer"/>
 
 </div>
