@@ -54,8 +54,7 @@ Status:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://tryhackme.com/p/AYSE">
-<img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+[![My TryHackMe profile](https://tryhackme-badges.s3.amazonaws.com/AYSE.png)](https://tryhackme.com/p/AYSE)
 </a>
 
 <a href="mailto:tomtv9889@gmail.com">
