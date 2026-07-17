@@ -2,14 +2,22 @@
 
 # 👋 Hey, I'm Ayse
 
-```text
+```console
 root@ayse:~$ whoami
-> Curious.
-> Builder.
-> Security Researcher.
+
+> Security Researcher
+> Full Stack Developer
+> Linux Enthusiast
+> Raspberry Pi Tinkerer
 ```
 
 *"Just a curious star floating across space."* 🌌
+
+<p>
+<a href="https://tryhackme.com/p/AYSE">
+<img src="https://tryhackme-badges.s3.amazonaws.com/AYSE.png" alt="TryHackMe Badge" />
+</a>
+</p>
 
 </div>
 
@@ -19,24 +27,45 @@ root@ayse:~$ whoami
 
 ```yaml
 Name: Ayse
-Focus:
-  - Penetration Testing
-  - Web Security
-  - Linux
-  - Raspberry Pi
-  - Full Stack Development
 
-Status: Always learning something new.
+Role:
+  - Penetration Tester
+  - Full Stack Developer
+
+Interested In:
+  - Web Security
+  - Network Security
+  - Linux
+  - Malware Analysis
+  - Reverse Engineering
+  - Digital Forensics
+
+Current Goal:
+  Keep learning, keep building.
 ```
 
 ---
 
-## ⚡ Tech
+## 🌐 Profiles
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,bash,linux,git,docker,vscode"/>
+<a href="https://tryhackme.com/p/AYSE">
+<img src="https://img.shields.io/badge/TryHackMe-AYSE-red?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
 
+<a href="https://github.com/itsayse">
+<img src="https://img.shields.io/badge/GitHub-itsayse-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,bash,linux,docker,git,github,vscode,nodejs,react,raspberrypi"/>
 </p>
 
 ---
@@ -44,7 +73,8 @@ Status: Always learning something new.
 ## 🔐 Currently Learning
 
 ```text
-▣ Web Security
+▣ Web Application Security
+▣ Active Directory
 ▣ Reverse Engineering
 ▣ Malware Analysis
 ▣ Digital Forensics
@@ -61,14 +91,28 @@ Status: Always learning something new.
 
 🔗 https://github.com/itsayse/Pwnagotchi
 
-> ⚠️ Built and used only for educational purposes and authorized security assessments.
+> ⚠️ Built and used only in controlled environments for educational purposes and authorized security assessments.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=itsayse&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsayse&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
 <div align="center">
 
-### 📫 Contact
+## 📫 Contact
 
-**[tomtv9889@gmail.com](mailto:tomtv9889@gmail.com)**
+📧 **tomtv9889@gmail.com**
+
+*"Hack. Learn. Build. Repeat."*
 
 </div>
