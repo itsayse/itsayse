@@ -6,9 +6,7 @@
 
 *"Just a curious star floating across space."* 🌌
 
-<a href="https://tryhackme.com/p/AYSE">
-    <img src="https://img.shields.io/badge/TryHackMe-Visit%20My%20Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-</a>
+[![My TryHackMe profile](https://tryhackme-badges.s3.amazonaws.com/AYSE.png)](https://tryhackme.com/p/AYSE)
 
 </div>
 
