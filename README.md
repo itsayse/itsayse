@@ -6,10 +6,6 @@
 
 *"Just a curious star floating across space."* 🌌
 
-<p>
-  <a href="https://tryhackme.com/p/AYSE">
-    <img src="https://img.shields.io/badge/TryHackMe-Visit%20Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-  </a>
 </p>
 
 </div>
