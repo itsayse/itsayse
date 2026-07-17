@@ -15,7 +15,7 @@ root@ayse:~$ whoami
 
 <p>
 <a href="https://tryhackme.com/p/AYSE">
-<img src="https://tryhackme-badges.s3.amazonaws.com/AYSE.png" alt="TryHackMe Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/AYSE.png" alt="TryHackMe Badge"/>
 </a>
 </p>
 
@@ -28,34 +28,39 @@ root@ayse:~$ whoami
 ```yaml
 Name: Ayse
 
-Role:
-  - Penetration Tester
-  - Full Stack Developer
-
-Interested In:
+Focus:
+  - Penetration Testing
   - Web Security
-  - Network Security
   - Linux
-  - Malware Analysis
-  - Reverse Engineering
-  - Digital Forensics
+  - Raspberry Pi
+  - Full Stack Development
 
-Current Goal:
-  Keep learning, keep building.
+Currently Learning:
+  - Reverse Engineering
+  - Malware Analysis
+  - Digital Forensics
+  - Cloud Security
+
+Status:
+  Always building. Always learning.
 ```
 
 ---
 
-## 🌐 Profiles
+## 🌐 Connect
 
 <p align="center">
 
-<a href="https://tryhackme.com/p/AYSE">
-<img src="https://img.shields.io/badge/TryHackMe-AYSE-red?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+<a href="https://github.com/itsayse">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://github.com/itsayse">
-<img src="https://img.shields.io/badge/GitHub-itsayse-181717?style=for-the-badge&logo=github"/>
+<a href="https://tryhackme.com/p/AYSE">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red">
+</a>
+
+<a href="mailto:tomtv9889@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </p>
@@ -65,21 +70,8 @@ Current Goal:
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,bash,linux,docker,git,github,vscode,nodejs,react,raspberrypi"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,bash,linux,git,github,docker,nodejs,react,vscode,raspberrypi"/>
 </p>
-
----
-
-## 🔐 Currently Learning
-
-```text
-▣ Web Application Security
-▣ Active Directory
-▣ Reverse Engineering
-▣ Malware Analysis
-▣ Digital Forensics
-▣ Cloud Security
-```
 
 ---
 
@@ -95,7 +87,7 @@ Current Goal:
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -109,10 +101,8 @@ Current Goal:
 
 <div align="center">
 
-## 📫 Contact
+### 💭 Motto
 
-📧 **tomtv9889@gmail.com**
-
-*"Hack. Learn. Build. Repeat."*
+> *Hack. Learn. Build. Repeat.*
 
 </div>
