@@ -11,19 +11,17 @@ root@ayse:~$ whoami
 > Raspberry Pi Tinkerer
 ```
 
-*"Just a curious star floating across space."* 🌌
+*"Just a curious star floating across space."* 🚀
 
-<p>
 <a href="https://tryhackme.com/p/AYSE">
-<img src="https://tryhackme-badges.s3.amazonaws.com/AYSE.png" alt="TryHackMe Badge"/>
+    <img src="https://img.shields.io/badge/TryHackMe-AYSE-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
 </a>
-</p>
 
 </div>
 
 ---
 
-## 🛰️ About
+## 🛰️ About Me
 
 ```yaml
 Name: Ayse
@@ -42,7 +40,8 @@ Currently Learning:
   - Cloud Security
 
 Status:
-  Always building. Always learning.
+  Always Building.
+  Always Learning.
 ```
 
 ---
@@ -52,15 +51,15 @@ Status:
 <p align="center">
 
 <a href="https://github.com/itsayse">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://tryhackme.com/p/AYSE">
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red">
+<img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 </a>
 
 <a href="mailto:tomtv9889@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -70,7 +69,9 @@ Status:
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,bash,linux,git,github,docker,nodejs,react,vscode,raspberrypi"/>
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,react,html,css,bash,linux,docker,git,github,vscode,raspberrypi"/>
+
 </p>
 
 ---
@@ -83,7 +84,7 @@ Status:
 
 🔗 https://github.com/itsayse/Pwnagotchi
 
-> ⚠️ Built and used only in controlled environments for educational purposes and authorized security assessments.
+> Built and used only in controlled environments for educational purposes and authorized security assessments.
 
 ---
 
