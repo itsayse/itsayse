@@ -2,108 +2,11 @@
 
 # 👋 Hey, I'm Ayse
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=00FF99&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Aspiring+Penetration+Tester;Linux+Enthusiast;Full+Stack+Developer;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3500&pause=1200&color=45F2DF&center=true&vCenter=true&width=750&lines=Cybersecurity+Student;Aspiring+Penetration+Tester;Linux+Enthusiast;Full+Stack+Developer" />
 
 *"Just a curious star floating across space."* 🌌
 
-</p>
-
-</div>
-
----
-
-## 💻 whoami
-
-```console
-root@ayse:~$ whoami
-
-Name        : Ayse
-Role        : Cybersecurity Student
-
-Focus:
-• Penetration Testing
-• Web Security
-• Linux
-• Full Stack Development
-
-Currently Learning:
-• Active Directory
-• Reverse Engineering
-• Malware Analysis
-• Digital Forensics
-
-Status:
-Always building.
-Always learning.
-```
-
----
-
-## ⚡ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,react,html,css,bash,linux,docker,git,github,vscode,raspberrypi,mysql"/>
-</p>
-
----
-
-## 🔐 Interests
-
-```text
-▣ Ethical Hacking
-▣ Web Application Security
-▣ Network Security
-▣ Linux Administration
-▣ Raspberry Pi Projects
-▣ Automation & Scripting
-```
-
----
-
-## 🚀 Featured Project
-
-### 🤖 Pwnagotchi
-
-A Raspberry Pi powered Wi-Fi learning companion built for educational purposes and authorized security assessments.
-
-**Hardware**
-
-- Raspberry Pi Zero WH
-- 2.13" E-Ink Display
-- SanDisk 32GB MicroSD
-- Custom 3D Printed Case
-
-🔗 Repository:
-https://github.com/itsayse/Pwnagotchi
-
----
-
-# 🌌 Featured Experience
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=1000&color=45F2DF&center=true&vCenter=true&width=900&lines=ARCHION-9;Not+everything+on+this+server+is+meant+to+be+found." />
-
-### Experience it first.
-
-🌐 **https://itsasye.lol**
-
-After that...
-
-📂 **https://github.com/itsayse/archion9**
-
-<sub>The source will still be there when you're done exploring.</sub>
-
-</div>
-
----
-
----
-
-## 🌐 Connect
-
-<p align="center">
-
+<p>
 <a href="https://github.com/itsayse">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -115,18 +18,68 @@ After that...
 <a href="mailto:tomtv9889@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+</p>
 
+</div>
+
+---
+
+## 💻 whoami
+
+```console
+root@ayse:~$ whoami
+
+Role    : Cybersecurity Student
+Focus   : Penetration Testing • Linux • Web Security
+Learning: Active Directory • Reverse Engineering
+Status  : Always Building.
+```
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,react,html,css,bash,linux,docker,git,github,vscode,raspberrypi,mysql"/>
 </p>
 
 ---
 
-## 📂 Current Goals
+## 🌌 Featured Project
 
-- Build practical cybersecurity tools
-- Improve penetration testing skills
-- Learn reverse engineering and malware analysis
-- Contribute to open source
-- Create high-quality technical projects
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=7B2FF7&center=true&vCenter=true&width=800&lines=ARCHION-9;Not+everything+on+this+server+is+meant+to+be+found." />
+
+### **ARCHION-9**
+
+An interactive browser experience disguised as a static archive.
+
+🌐 **Experience it first**
+
+## https://itsasye.lol
+
+📂 **Source**
+
+https://github.com/itsayse/archion9
+
+*Some things are better experienced before they're explained.*
+
+</div>
 
 ---
 
+## 🎯 Currently Working On
+
+- 🔐 Cybersecurity Projects
+- 🐧 Linux & Automation
+- 🧠 Reverse Engineering
+- 🌐 Interactive Web Experiences
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:05040F,50:7B2FF7,100:45F2DF"/>
+
+</div>
